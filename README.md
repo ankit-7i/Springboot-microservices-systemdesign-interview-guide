@@ -156,7 +156,7 @@ Esc           →  Close any open panel
 
 <div align="center">
 
-<img src="./preview.png" alt="Spring Boot Interview Mastery — Full Preview" width="100%" style="border-radius:12px; box-shadow: 0 8px 40px rgba(0,0,0,0.4);" />
+<img src="Preview.png" alt="Spring Boot Interview Mastery — Full Preview" width="100%" style="border-radius:12px; box-shadow: 0 8px 40px rgba(0,0,0,0.4);" />
 
 </div>
 
